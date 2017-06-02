@@ -6,8 +6,9 @@ Install the dependencies and start the server.
 
 Create .env file for the project & senpie_server using
 
-```
 example - set up by your local environment
+
+```
 
 DB_HOST=localhost
 DB_USER=example
@@ -39,8 +40,6 @@ You can store static files like images, fonts, etc in the `build` folder.
 For example, if you copy a file called my_image.png into the build folder you can access it using `http://localhost:4000/build/my_image.png`.
 
 ### Linting
-
-This boilerplate project includes React ESLint configuration.
 
 ```
 npm run lint
