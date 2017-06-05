@@ -4,8 +4,8 @@ class Tagline extends Component{
   render() {
     return (
       <div className="tagline">
-          <h1>Senpie</h1>
-        </div>
+        <h1>Senpie</h1>
+      </div>
     )
   }
 }

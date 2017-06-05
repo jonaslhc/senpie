@@ -6,9 +6,9 @@ Install the dependencies and start the server.
 
 Create .env file for the project & senpie_server using
 
-example - set up by your local environment
-
 ```
+
+example - set up by your local environment
 
 DB_HOST=localhost
 DB_USER=example
